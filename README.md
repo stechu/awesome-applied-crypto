@@ -5,12 +5,12 @@
 
 ## General introduction
 
-- [Cryptography I Course by Dan Boneh](https://www.coursera.org/learn/crypto)
+- [Cryptography I Course (Dan Boneh)](https://www.coursera.org/learn/crypto)
 
 ## Elliptic Curves
 
-- [Elliptic Curves Notes by Ben Lynn](https://crypto.stanford.edu/pbc/notes/elliptic/)
+- [Elliptic Curves Notes (Ben Lynn)](https://crypto.stanford.edu/pbc/notes/elliptic/)
 
 ## Zero Knowledge Proofs
 
-- [Awesome ZKP from Matter Lab](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
+- [Awesome ZKP (Matter Lab)](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
