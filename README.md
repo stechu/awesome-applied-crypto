@@ -31,5 +31,5 @@ Foundations:
 - [IKOS 07: Zero-Knowledge from Secure Multiparty Computation](https://web.cs.ucla.edu/~rafail/PUBLIC/77.pdf)
 - [GMO 16: ZKBoo: Faster Zero-Knowledge for Boolean Circuits](https://eprint.iacr.org/2016/163.pdf)
 
-ImplementationsL
+Implementations:
 - [libstark](https://github.com/elibensasson/libSTARK)
