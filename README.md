@@ -24,6 +24,7 @@ Foundations:
 
 Implementations:
 - [libsnark](https://github.com/scipr-lab/libsnark)
+- [libzexe](https://github.com/scipr-lab/zexe)
 
 ### IOPs
 
