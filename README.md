@@ -33,3 +33,8 @@ Foundations:
 
 Implementations:
 - [libstark](https://github.com/elibensasson/libSTARK)
+
+## Multi-Party Computation
+
+Compilers:
+- [SOK](https://marsella.github.io/static/mpcsok.pdf)
